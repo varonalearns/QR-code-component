@@ -49,6 +49,7 @@ div {
 }
 h1 {
     font-weight: 700;
+    font-size: 1.25rem;
     color: var(--clr-dark-blue);
 }
 p {
